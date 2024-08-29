@@ -24,4 +24,4 @@ dist-ssr
 *.sln
 *.sw?
 #arfifacts
-/src/artifact/
+/src/artifacts/
